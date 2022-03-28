@@ -21,14 +21,22 @@ Colab: https://colab.research.google.com/drive/17aQmQpNHwgssKr2z8rWpFce4ojMxWZjy
 ![image](https://user-images.githubusercontent.com/93263163/160496094-d952dc0d-d765-479d-87de-1919323aa542.png)
 
 
-
 | Номер метки | Контекст |
 |-------------|----------|
 | 1,2,4 | Промотор |
 | 3 | Энхансер |
 | 5,7,8 | Экзон |
-| 6 | Часто в конце транскрипции | 
+| 6,10 | Часто в конце транскрипции | 
 | 9,10 | Гетерохроматин |
+
+### GpG-островки.
+![image](https://user-images.githubusercontent.com/93263163/160498764-f2a5567f-9b05-4212-afe3-90023a3f1e6b.png)
+![image](https://user-images.githubusercontent.com/93263163/160499241-95cf7f6d-59e4-4faa-bb30-306c79433d56.png)
+![image](https://user-images.githubusercontent.com/93263163/160499485-8830d195-255a-4fc4-9344-c0a5ce9a60f5.png)
+![image](https://user-images.githubusercontent.com/93263163/160499754-e1c8e2d7-fa29-4382-b0f5-b2b5e54a541b.png)
+
+Чаще всего связаны с 10й меткой.
+
 # Картинки из отчёта
 ![image](https://user-images.githubusercontent.com/93263163/160468439-9729e415-86a7-48d2-9794-dac0f495b1fb.png)
 ![image](https://user-images.githubusercontent.com/93263163/160468628-cbfe0696-194b-4970-b4bc-da6f984867f7.png)
