@@ -15,6 +15,7 @@ Colab: https://colab.research.google.com/drive/17aQmQpNHwgssKr2z8rWpFce4ojMxWZjy
 ## Genome Browser. Гистоновые метки.
 ![image](https://user-images.githubusercontent.com/93263163/160469012-88461eff-7db7-4845-afb7-d7fdefb9a687.png)
 ![image](https://user-images.githubusercontent.com/93263163/160477294-fea2e7bc-a626-4c1e-a1ca-b70e4f9104ce.png)
+![image](https://user-images.githubusercontent.com/93263163/160479331-b4e091f8-f74f-4efd-be74-289d207c3ec0.png)
 
 | Номер метки | Контекст |
 |-------------|----------|
