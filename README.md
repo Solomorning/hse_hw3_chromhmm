@@ -16,11 +16,17 @@ Colab: https://colab.research.google.com/drive/17aQmQpNHwgssKr2z8rWpFce4ojMxWZjy
 ![image](https://user-images.githubusercontent.com/93263163/160469012-88461eff-7db7-4845-afb7-d7fdefb9a687.png)
 ![image](https://user-images.githubusercontent.com/93263163/160477294-fea2e7bc-a626-4c1e-a1ca-b70e4f9104ce.png)
 ![image](https://user-images.githubusercontent.com/93263163/160479331-b4e091f8-f74f-4efd-be74-289d207c3ec0.png)
+![image](https://user-images.githubusercontent.com/93263163/160493931-ee668ac4-4c88-4333-80d0-31510c363dc2.png)
+![image](https://user-images.githubusercontent.com/93263163/160494756-778db1a6-ffca-4c6b-9ab9-34e7ff250f3a.png)
+
+
 
 | Номер метки | Контекст |
 |-------------|----------|
-| 1 | Промотор |
-| 2 |  |
+| 1,2,4 | Промотор |
+| 3 | Энхансер |
+| 5,7 |  |
+| 9,10 | Гетерохроматин |
 # Картинки из отчёта
 ![image](https://user-images.githubusercontent.com/93263163/160468439-9729e415-86a7-48d2-9794-dac0f495b1fb.png)
 ![image](https://user-images.githubusercontent.com/93263163/160468628-cbfe0696-194b-4970-b4bc-da6f984867f7.png)
