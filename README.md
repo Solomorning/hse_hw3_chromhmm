@@ -18,6 +18,7 @@ Colab: https://colab.research.google.com/drive/17aQmQpNHwgssKr2z8rWpFce4ojMxWZjy
 ![image](https://user-images.githubusercontent.com/93263163/160479331-b4e091f8-f74f-4efd-be74-289d207c3ec0.png)
 ![image](https://user-images.githubusercontent.com/93263163/160493931-ee668ac4-4c88-4333-80d0-31510c363dc2.png)
 ![image](https://user-images.githubusercontent.com/93263163/160494756-778db1a6-ffca-4c6b-9ab9-34e7ff250f3a.png)
+![image](https://user-images.githubusercontent.com/93263163/160496094-d952dc0d-d765-479d-87de-1919323aa542.png)
 
 
 
@@ -25,7 +26,8 @@ Colab: https://colab.research.google.com/drive/17aQmQpNHwgssKr2z8rWpFce4ojMxWZjy
 |-------------|----------|
 | 1,2,4 | Промотор |
 | 3 | Энхансер |
-| 5,7 |  |
+| 5,7,8 | Экзон |
+| 6 | Часто в конце транскрипции | 
 | 9,10 | Гетерохроматин |
 # Картинки из отчёта
 ![image](https://user-images.githubusercontent.com/93263163/160468439-9729e415-86a7-48d2-9794-dac0f495b1fb.png)
