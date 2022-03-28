@@ -1,6 +1,8 @@
 # hse_hw3_chromhmm
 Colab: https://colab.research.google.com/drive/17aQmQpNHwgssKr2z8rWpFce4ojMxWZjy?usp=sharing
 ## Таблица
+| Гистоновая метка | Название файла |
+|------------------|----------------|
 | H3k4me2 | HepG2_H3k4me2.bam |
 | H3k4me3 | HepG2_H3k4me3.bam |
 | H3k9ac  | HepG2_H3k9ac.bam  |
