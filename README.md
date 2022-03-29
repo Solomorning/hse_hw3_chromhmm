@@ -42,3 +42,9 @@ Colab: https://colab.research.google.com/drive/17aQmQpNHwgssKr2z8rWpFce4ojMxWZjy
 ### Расположение LAD.
 ![image](https://user-images.githubusercontent.com/93263163/160503446-1dbb6d17-dd61-4993-9aa9-18791fa17a4f.png)
 Видно, что зоны ассоциированные с ядерной ламиной соответствуют участкам с репрессированной экспрессией.
+
+![image](https://user-images.githubusercontent.com/93263163/160589781-266ffcca-0cfe-42e0-ab35-e99ce7d29f76.png)
+![image](https://user-images.githubusercontent.com/93263163/160592132-fe82c6f4-f84b-4f80-9522-cfd67c26940a.png)
+![image](https://user-images.githubusercontent.com/93263163/160592173-1057f1f5-a81c-48e2-98dd-be3372807081.png)
+
+1,2,3,4,5,6,7,8, а 9,10 - внутри. Метки находятся, как правило, вне LAD. Это подтверждается тем фактом, что в связанном с ядерной ламиной хроматин находится в конденсированном состоянии и не транскрибируется.
