@@ -48,3 +48,10 @@ Colab: https://colab.research.google.com/drive/17aQmQpNHwgssKr2z8rWpFce4ojMxWZjy
 ![image](https://user-images.githubusercontent.com/93263163/160592173-1057f1f5-a81c-48e2-98dd-be3372807081.png)
 
 1,2,3,4,5,6,7,8, а 9,10 - внутри. Метки находятся, как правило, вне LAD. Это подтверждается тем фактом, что в связанном с ядерной ламиной хроматин находится в конденсированном состоянии и не транскрибируется.
+
+## Бонус
+Названия были изменены в bed файле (отредактированная версия есть в папке /src) при помощи перевода в csv файл и замена при помощи ctrt+f. В результате получены следующие изображения
+![image](https://user-images.githubusercontent.com/93263163/160655762-41412b44-097d-4e46-9141-f8fe70d0b0ee.png)
+![image](https://user-images.githubusercontent.com/93263163/160656044-0eb0a141-cafe-4ea3-a4d5-b6a0b03467c6.png)
+![image](https://user-images.githubusercontent.com/93263163/160656109-42225047-56a8-449a-beaa-5584be5a405d.png)
+
